@@ -1,2 +1,4 @@
 # Network-Intrusion-Detection
 This is my Artificial Intelligence Course Assignment
+
+I developed a sophisticated network intrusion detection binary classifier leveraging advanced Machine Learning techniques. This project showcases my expertise in data analysis, feature engineering, and model training. By employing state-of-the-art algorithms and leveraging extensive datasets, I designed a robust system capable of identifying and classifying network intrusions with high accuracy. My role involved data preprocessing, model selection, and rigorous evaluation, reflecting my proficiency in the field of Machine Learning. This project not only demonstrates my technical skills but also highlights my ability to tackle complex cybersecurity challenges. By creating an effective binary classifier, I illustrated my commitment to enhancing digital security through innovative applications of Machine Learning.
